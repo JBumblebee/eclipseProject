@@ -1,5 +1,7 @@
 package 回溯装载问题;
 
+
+//123
 public class Loading {
 	static int n;//货箱数目
 	static int[] w;//货箱重量数组
